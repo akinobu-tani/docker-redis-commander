@@ -1,5 +1,3 @@
-# Redis Commander Docker Image
-
 [Redis Commander](https://github.com/joeferner/redis-commander)
 
 ## Usage
